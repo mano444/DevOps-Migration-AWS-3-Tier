@@ -42,7 +42,7 @@ Follow these steps to set up your development environment, deploy the applicatio
 1. **Clone the Repository**: Clone this repository to your local machine.
 
     ```shell
-    git clone https://github.com/your-username/DevOps-Migration-AWS-3-Tier.git
+    git clone https://github.com/mano444/DevOps-Migration-AWS-3-Tier.git
     ```
 
 2. **Prerequisites**: Ensure you have the following prerequisites installed:
@@ -94,7 +94,5 @@ We invite you to join us on this journey of DevOps transformation and cloud migr
 
 Feel free to explore our project and dive into the world of DevOps and AWS automation!
 
-## License
 
-This project is licensed under the [MIT License](LICENSE).
 
